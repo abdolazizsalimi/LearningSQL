@@ -15,9 +15,9 @@
 
 
 
-INSERT INTO 
-conversation (user_name , employee_name , massage ) 
-VALUES('Aziz salimi' , 'Learning Inc' , 'Hi i like learning !!');
+-- INSERT INTO 
+-- conversation (user_name , employee_name , massage ) 
+-- VALUES('Aziz salimi' , 'Learning Inc' , 'Hi i like learning !!');
 
 
 
