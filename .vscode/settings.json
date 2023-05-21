@@ -9,7 +9,7 @@
             "port": 3306,
             "driver": "MySQL",
             "name": "UdemyCourse",
-            "database": "world",
+            "database": "talently",
             "username": "root",
             "askForPassword": true
         }
