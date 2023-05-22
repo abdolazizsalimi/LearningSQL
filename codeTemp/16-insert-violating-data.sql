@@ -11,4 +11,6 @@ INSERT INTO users (full_name , year_salary , current_status) VALUES (
 --     'ALi Salimi',
 --     100,
 --     'employed'
--- ); 
+-- );  
+
+
