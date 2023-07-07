@@ -1,0 +1,11 @@
+-- INSERT INTO sales(
+--     customer_name ,
+--     product_name ,
+--     volume , 
+--     is_recurring
+-- ) VALUES (
+--     'aziz salimi',
+--     'a book',
+--     12.44 , 
+--     TRUE
+-- ); 
